@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../UCB-BER-DATA-PT-02-2020-U-C"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UCB-BER-DATA-PT-02-2020-U-C"
+	}
+}
